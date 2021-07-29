@@ -1,0 +1,6 @@
+[submodule "openmanx_description"]
+	path = openmanx_description
+	url = https://github.com/agtbaskara/openmanx_description
+[submodule "openmanx_moveit_config"]
+	path = openmanx_moveit_config
+	url = https://github.com/agtbaskara/openmanx_moveit_config
